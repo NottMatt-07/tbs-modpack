@@ -1,0 +1,8 @@
+name = "TBS Nostalgia"
+filename = "TBS Nostalgia.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/2cavwvy64ieinef1gkkgk/TBS-Nostalgia.zip?rlkey=ppn6o6foguv071c2mi1ejf5jc&st=5en4ik8e&dl=1"
+hash-format = "sha512"
+hash = "30f6974140ed0a353fd6f9655adb2838dca5b7f160cc9ef1aab77505c0de61877d8fa1b554c13627ce0600fae4d0e05a8251bc239ac63a6340a19544864f354d"
