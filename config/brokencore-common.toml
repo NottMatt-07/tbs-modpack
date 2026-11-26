@@ -1,0 +1,22 @@
+#Enable cheats.
+enableCheats = false
+#Disable the ability for mods to delete entire chunks.
+disableChunkRemoval = false
+
+#Events configuration.
+[events]
+	#Enable random events.
+	enableRandomEvents = true
+	#Enable rerolling events until the engine finds one that can execute.
+	rerollEvents = true
+	#Random event IDs to enable.
+	disabledEvents = []
+	#Enable debugging of events. will tell player what event is attempted to run.
+	eventDebug = false
+
+#Chat responses configuration.
+[chat]
+	#Enable the chat responses system.
+	enableChatResponses = true
+	#Force all chat responses to react instantly.
+	forceFastResponses = false

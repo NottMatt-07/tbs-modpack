@@ -1,0 +1,393 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+# The chunk rebuild scheduler mode (immediate, culling).
+chunk_rebuild_scheduler = "culling"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting for entities that have the Glowing effect.
+	glowing_effect = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enables dynamic lighting of the Warden's sonic boom attack particles.
+	sonic_boom = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				egg = true
+				zoglin = true
+				spawner_minecart = true
+				allay = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				horse = true
+				vindicator = true
+				minecart = true
+				spectral_arrow = true
+				llama_spit = true
+				mooshroom = true
+				glow_item_frame = false
+				tnt = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				tadpole = true
+				ravager = true
+				evoker_fangs = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				ender_pearl = true
+				zombie = true
+				item_display = true
+				breeze_wind_charge = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wither_skull = true
+				wolf = true
+				block_display = true
+				tnt_minecart = true
+				zombie_villager = true
+				elder_guardian = true
+				chest_boat = true
+				boat = true
+				small_fireball = true
+				strider = true
+				cave_spider = true
+				cod = true
+				snow_golem = true
+				witch = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				armor_stand = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				shulker = true
+				turtle = true
+				salmon = true
+				vex = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				breeze = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				warden = true
+				shulker_bullet = true
+				squid = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				sniffer = true
+				trader_llama = true
+				donkey = true
+				bogged = true
+				fox = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				wind_charge = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				villager = true
+				ominous_item_spawner = true
+				skeleton_horse = true
+				fishing_bobber = true
+				text_display = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
+				interaction = true
+				wither = true
+
+			[light_sources.settings.entities.zombieawareness]
+				scent = true
+
+			[light_sources.settings.entities.immersive_portals]
+				mirror = true
+				nether_portal_new = true
+				border_portal = true
+				global_tracked_portal = true
+				end_portal = true
+				end_floor_portal = true
+				general_breakable_portal = true
+				loading_indicator = true
+				portal = true
+				breakable_mirror = true
+
+			[light_sources.settings.entities.the_knocker]
+				knockerstalk = true
+				knocker = true
+				knockerstalklooked = true
+				knockerswim = true
+
+			[light_sources.settings.entities.the_broken_script_blackout]
+				tfp_stalk = true
+				tfp_stare = true
+				tfp_calm = true
+				nullhi = true
+				integrity_scare = true
+				curved_angry = true
+				axisskeleton = true
+				axis_angry = true
+				integrity_anim = true
+				leave = true
+				visual_entity_rendering_error = true
+				screen_failed = true
+				integrity_chase = true
+				chunk_handler = true
+				axiswalk = true
+				obfuscated = true
+				exterminator = true
+				tfp_tamed = true
+				axiscavespawner = true
+				axis_cave_stare = true
+				day_blind = true
+				moon_blind = true
+				makar = true
+				player_loading_fail = true
+				cow_circuit = true
+				visual_rendering_error = true
+				integrity_stalk = true
+				axiszombie = true
+				integrity_stare = true
+				check = true
+				axis_cave_camo = true
+				integrity_vanish = true
+				integrity_wave = true
+				tfp_angry = true
+				v_espawner = true
+				player_spawn = true
+
+			[light_sources.settings.entities.whispering_spirits]
+				whispering_spirit = true
+
+			[light_sources.settings.entities.thebrokenscript_additions]
+				admin_3_cat = true
+				fake_wisp = true
+				nullseesyou = true
+				integrity_nightmare = true
+				disruptor = true
+				the_worlds_eye_void = true
+				observe = true
+				tep_back_arm = true
+				alert = true
+				wisp = true
+				subjugate = true
+				alert_alert = true
+				structure_spawner = true
+				amalgamation = true
+				admin_3_static = true
+				observe_kill = true
+				the_worlds_eye_sky = true
+				subjugate_stalk = true
+				admin_3_angry = true
+				admin_3_stalk = true
+				tep_head = true
+				execute = true
+				red_wisp = true
+				admin_3_idle = true
+				analyze = true
+				report = true
+				spectator = true
+				revuxor = true
+				the_eternal_purgatory = true
+
+			[light_sources.settings.entities.the_obsessed]
+				idk_stalker_mimic = true
+				idk_stalker_trap = true
+				idk_stalker_abduct = true
+				idk_stalker_lurker = true
+				idk_spider_ceiling = true
+				idk_stalker_deposit_facility = true
+				idk_stalker_follow_close = true
+				idk_stalker_tree = true
+				idk_stalker_intrude = true
+				idk_spider_jealous = true
+				idk_stalker_saviour = true
+				idk_spider_nightmare = true
+				idk_stalker_flee = true
+				idk_spider_threatening = true
+				idk_spider_flee = true
+				idk_stalker_jealous = true
+				idk_stalker_sleep = true
+				los_checker = true
+				idk_stalker_opportunistic = true
+				idk_stalker_still = true
+				idk_stalker_swim = true
+				obsessed_display = true
+				idk_stalker_protective = true
+				idk_spider_still = true
+				idk_stalker_unhappy = true
+				idk_stalker_tamed = true
+				idk_stalker_targeter = true
+				idk_stalker = true
+				idk_stalker_crawler = true
+				idk_spider_crawler = true
+				idk_stalker_sprint = true
+				idk_stalker_surprise = true
+				idk_stalker_deposit = true
+				idk_stalker_build = true
+				idk_stalker_spawn = true
+				idk_stalker_behind = true
+				idk_spider_enraged = true
+
+			[light_sources.settings.entities.thebrokenscript]
+				nulll = true
+				sub_anomaly_2_boss = true
+				circuit_mineshaft_flee = true
+				phantom_player = true
+				fever_stalk = true
+				fractured = true
+				hetzer = true
+				ban = true
+				siluet_stare = true
+				null_endgame = true
+				maze_shadows = true
+				null_mining = true
+				fake_player = true
+				the_obliteration_2 = true
+				null_flying = true
+				circuit_stare = true
+				he_chase = true
+				null_cod = true
+				null_invade_base = true
+				tether = true
+				circuit_mineshaft_walk = true
+				integrity_phase_2 = true
+				integrity_phase_3 = true
+				circuit_stalk = true
+				void_tentacle = true
+				integrity_curious = true
+				integrity_phase_1 = true
+				fractured_roam = true
+				faraway = true
+				null_watching = true
+				murderfur_spawner = true
+				chunk_remover = true
+				eerie_noise = true
+				integ_fireball = true
+				corruption = true
+				command_block_giver = true
+				circuit = true
+				curved = true
+				deceiver = true
+				circuit_mineshaft_stare = true
+				nothing_watcher = true
+				jon = true
+				the_broken_end_ambush = true
+				fever = true
+				the_broken_end = true
+				chord_projectile = true
+				the_broken_end_stalk = true
+				siluet_hallucination = true
+				ceiling_circuit = true
+				sub_anomaly_1 = true
+				rock = true
+				sub_anomaly_2 = true
+				null_scare = true
+				integrity_arm = true
+				stare = true
+				xxram_2die = true
+				name_tag = true
+				null_unbeatable_bossfight = true
+				null_maze = true
+				nothingiswatching = true
+				murderfur = true
+				he_hallucination = true
+				follow = true
+				nothingiswatchingchase = true
+				null_is_here = true
+				the_broken_end_curious = true
+				chord = true
+				herobrine = true
+				siluet = true
+				siluet_chase = true
+				he = true
+				the_obliteration = true
+				torch_god_flame = true
+
+			[light_sources.settings.entities.dreamshift]
+				nosi = true
+				dreamspace_observer = true
+				still_life = true
+				silk_circus_statue = true
+				oiia_cat = true
+				dreamspace_ceiling_leg = true
+				pocket_zombie_pigman = true
+
+			[light_sources.settings.entities.face_of_horror]
+				harvest_moon_spirit = true
+				jumpscare = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+[adaptive_ticking]
+	# Reduces how often sources behind the camera get ticked.
+	background_sleep = true
+	# How far away (in chunks) until light sources get ticked less often.
+	slow = 5
+	# How far away (in chunks) until light sources get ticked even less often.
+	slower = 8

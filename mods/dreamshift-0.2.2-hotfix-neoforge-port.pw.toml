@@ -1,0 +1,8 @@
+name = "dreamshift-0.2.2-hotfix-neoforge-port"
+filename = "dreamshift-0.2.2-hotfix-neoforge-port.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/1tqmspvrj1p6vjigdo2cv/dreamshift-0.2.2-hotfix-neoforge-port.jar?rlkey=615qi5z963q77xce70qkba27v&st=1mlfgfj8&dl=1"
+hash-format = "sha512"
+hash = "2e2b6795ae25637fb71e5701d843d8083450d49226e4f1835f50c0f35b5ecd9a98d4c9c64f4070c5b6452ba798df753e237b582daa5782d0d8903de91545d603"

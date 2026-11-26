@@ -1,0 +1,4 @@
+#Disable the ability for mods to crash your game intentionally.
+disableCrashes = true
+#Make switches run. Don't ask.
+runningSwitches = false

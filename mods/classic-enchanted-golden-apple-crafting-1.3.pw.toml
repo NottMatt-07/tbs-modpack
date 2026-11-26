@@ -1,0 +1,13 @@
+name = "classic-enchanted-golden-apple-crafting-1.3"
+filename = "classic-enchanted-golden-apple-crafting-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ti7URSCn/versions/cq1UAGBT/classic-enchanted-golden-apple-crafting-1.3.jar"
+hash-format = "sha512"
+hash = "17290636761bf2c41bf8ffac87a487bbf86fb201f7b7b986915a2baef45d19dd97847793bf032e8f3a85075c4e92408c12d33eb952cec56cfd63fef7ca36f18e"
+
+[update]
+[update.modrinth]
+mod-id = "Ti7URSCn"
+version = "cq1UAGBT"

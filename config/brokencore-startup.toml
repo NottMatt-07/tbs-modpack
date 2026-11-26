@@ -1,0 +1,4 @@
+#Debugging configuration.
+[debug]
+	#Enable BrokenReg's debug logging.
+	registryDebugLogging = false

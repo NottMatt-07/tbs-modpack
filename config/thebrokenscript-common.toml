@@ -1,0 +1,86 @@
+#Disable TBS Entity's breaking blocks.
+disableBlockBreaking = false
+#Disable random jumpscares.
+disableRandomJumpscares = false
+#Disable spawning mobs from newer Minecraft versions.
+disableNewMobSpawning = true
+#Enable keep inventory, only for TBS dimensions.
+enableKeepInventory = true
+
+#World configuration.
+[world]
+	#Remove deepslate.
+	removeDeepslate = true
+	#Make World Generate Old Caves.
+	#this adds Nostalgia Generation on world creation screen by default if allowed
+	allowOldWorldGen = true
+	#Disable spawning void holes.
+	disableVoidHoles = false
+	#Disable world eating functionality.
+	disableWorldEater = false
+	#Disable random structure spawning.
+	disableRandomStructures = false
+	#Nightmare Teleport Chance by sleeping
+	# Default: 15
+	# Range: 0 ~ 100
+	nightmareTeleportChance = 10
+	#Disable Seed Changer
+	disableSeedChanger = false
+	#Additional Corrupted Worldgen (shouldn't be played in regular gameplay), WARNING: MAY LAG.
+	#DO NOT MIX WITH RANDOM CHUNK Y OFFSET CONFIG. WORLD GEN WITH THIS IS IRREVERSIBLE
+	allowCorruptedWorldGeneration = false
+	#Additional random Chunk Y offset generation (shouldn't be played in regular gameplay). WARNING: VERY PERFORMANCE HEAVY, MAY LAG.
+	#DO NOT MIX WITH CORRUPTED WORLD GENERATION CONFIG. WORLD GEN WITH THIS IS IRREVERSIBLE
+	allowChunkYOffsetGeneration = false
+	#This Setting controls how many days apart structures appear.
+	#For example setting 1 means atleast 1 structure spawns every day, setting 2 means spawn atleast one structure every 2 days.
+	# Default: 1
+	# Range: 1 ~ 10
+	structureDayApart = 1
+
+#Entity configuration.
+[entities]
+	#The chance for an entity to spawn Circuit on death.
+	# Default: 0.001
+	# Range: 0.0 ~ 100.0
+	disguisedCircuitEntityChance = 0.001
+	#The chance for an ore to become a disguised Circuit.
+	# Default: 0.01
+	# Range: 0.0 ~ 100.0
+	disguisedCircuitOreChance = 0.01
+
+#DANGER! THIS BREAKS THE INTENDED EXPERIENCE OF THE MOD!
+#ONLY DO THIS IF YOU KNOW WHAT YOU ARE DOING.
+[danger]
+	#Disable the attack cooldown, restoring pre-1.9 attack behavior.
+	disableAttackCooldown = true
+	#Disable TBS random entity spawning. Note that this does not apply to naturally spawned entities.
+	disableSpawningEntities = false
+	#The funny setting.
+	funnySetting = false
+	#Show trigger blocks.
+	showTriggerBlocks = false
+	#Adjusts the Bumpscosity.
+	# Default: 0
+	# Range: 0 ~ 1000
+	bumpscosity = 0
+	#Disable starting Fractured's bossfight.
+	disableFracturedBossfight = false
+	#Disable starting Integrity's bossfight.
+	disableIntegrityBossfight = false
+
+#Event Rate Config
+[events]
+	#This controls the max ceiling of event scheduler to apply this max of events per day.
+	# This doesn't control the curve characteristic of event rate. Event rate grows dynamically per time.
+	# changes to this will affect amount of events per day in the next in-game day.
+	# Default: 8
+	# Range: 0 ~ 22
+	maxEventsPerDay = 10
+	#This either enables or disables event curve.
+	# If this is enabled event rate will grow dynamically over time until Max Events Per Day ceiling.
+	# (leave on for intended experience)
+	shouldEventsBeControlledByCurve = true
+	#This controls whether vanilla mobs should be despawned or not.
+	#         Only when moon corruption is active and on later phases
+	enableMoonCorruptionMobDespawns = true

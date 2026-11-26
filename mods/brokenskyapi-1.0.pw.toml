@@ -1,0 +1,13 @@
+name = "brokenskyapi-1.0"
+filename = "brokenskyapi-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DL7osPai/versions/b0333iHN/brokenskyapi-1.0.jar"
+hash-format = "sha512"
+hash = "02c0e4a2e45a51fe65f5c8520401d4356d646550c2714ab7916d6e5f4e8acca864f9a5b8acbbf13ce94680c9b8fce65642a64432624cf8ae7507d5ac6c803d3b"
+
+[update]
+[update.modrinth]
+mod-id = "DL7osPai"
+version = "b0333iHN"

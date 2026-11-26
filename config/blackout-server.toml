@@ -1,0 +1,45 @@
+["Game Handling"]
+	#Set this to false if you don't want to be kicked by entities/events
+	Kicking = true
+	#Set this to false if you don't want to be your game to be crashed by entities/events
+	Crashing = true
+	#Set this to false if you don't want your game to shake because of an entity
+	"Window shaking" = true
+	#Set this to false if you don't want pop ups to appear outside of your game
+	"Out of game events" = true
+
+	[Normal.Events]
+		#Set this to false if you don't want an event to disable entities spawning
+		"All alone" = true
+		#Set this to false if you don't dye to join your game
+		"DyeXD412 joining" = true
+
+	[Normal.Griefing]
+		#Set this to false if you don't want integrity corrupting blocks around him
+		"Block corruption" = true
+		#Set this to false if you don't want entities to be able to break blocks
+		"Block breaking" = true
+
+	[Normal.INTEGRITY]
+		#Set this to false if you don't want The end is here to trigger if a requirement is met
+		"Requirement needs to be met to trigger" = true
+		#Set this to false if you dont want The end is here to have a chance to trigger every day
+		"Chance to trigger per day" = true
+		#Set this to false if you dont want HIM to spawn
+		"Integrity spawning" = true
+		#Set this to false if you dont want Integrity getting rid of anomalies
+		"Disable R2 and FARAWAY when Integrity can spawn" = true
+
+[Dangerous]
+	#Set this to false if you don't want your world to be deleted by an entity
+	"World deletion" = true
+	#Set this to false if you don't want to be banned from your world by entities/events
+	Banning = true
+	#Set this to false if you don't want the chunks to be deleted or moved in your world
+	"Chunk handling" = true
+
+[Misc]
+	#Set this to true if you don't want sub anomaly to spawn
+	"Remove Sub-Anomaly-1" = true
+	#Включите, если хотите включить русскую версию мода (Требуется перезагрузка)
+	"Русский перевод" = false

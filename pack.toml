@@ -1,0 +1,13 @@
+name = "TBS Principal"
+author = "NottMatt_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "475d209cb269d9b5243d12cd92aa962de138e535b44d982bd3613280d7b260be"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

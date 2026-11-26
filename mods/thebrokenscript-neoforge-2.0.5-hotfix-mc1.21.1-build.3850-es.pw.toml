@@ -1,0 +1,8 @@
+name = "thebrokenscript-neoforge-2.0.5-hotfix+mc1.21.1-build.3850-es"
+filename = "thebrokenscript-neoforge-2.0.5-hotfix+mc1.21.1-build.3850-es.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/02bqgjfjffdzga3lg125e/thebrokenscript-neoforge-2.0.5-hotfix-mc1.21.1-build.3850-es.jar?rlkey=am1hgt7sr2fdfoczkoemscsz6&st=fhxwfjii&dl=1"
+hash-format = "sha512"
+hash = "a7379f58d9a39c18dc9bc57e9c10699910717bf697153fb7ee5384380fc510a29af521e3bcc34927e89a52ea3361c47a642a0fd8f0911696668f88aecef74be4"

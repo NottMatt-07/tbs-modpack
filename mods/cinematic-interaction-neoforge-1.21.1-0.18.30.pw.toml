@@ -1,0 +1,8 @@
+name = "Cinematic Interaction-NeoForge-1.21.1-0.18.30"
+filename = "Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/dhbrd4zklybyicgp048xa/Cinematic-Interaction-NeoForge-1.21.1-0.18.30.jar?rlkey=sj5gfb13w8hlrawk7dx6f7qxw&st=d76w0gta&dl=1"
+hash-format = "sha512"
+hash = "c7704dc1d16b14c115cc0aa8491874e816b8746f368be991069b5d41ecea7200a134ad11486c1ca027866f41edc0a820149a71730e6bb86f5ca7cbc84621ce87"

@@ -1,0 +1,13 @@
+name = "beta-nether-V1-1.20"
+filename = "beta-nether-V1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5TlMAiY5/versions/8bGwu6a3/beta-nether-V1-1.20.jar"
+hash-format = "sha512"
+hash = "715df42eec7ac4daeafa838589232d97a4938fec736f3bf1e63b76c4b08ca7aa2dc5d66564989541f4a7354db0944a8721f04d4cae19d72e935c17de5756900b"
+
+[update]
+[update.modrinth]
+mod-id = "5TlMAiY5"
+version = "8bGwu6a3"

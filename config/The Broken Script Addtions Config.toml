@@ -1,0 +1,41 @@
+["Mod config"]
+	#Shows the day counter
+	"Show Day Counter" = false
+	#Shows the game version with the mod's version next to it. It may change depending on certain events.
+	"Show Game Version" = false
+	#Enable or disable bans
+	Banning = false
+	#Enable or disable crashes
+	Crashes = true
+	#Enable or disable world corruption
+	"World Corruption" = true
+	#Sets on which day world corruption will start (Default: 20)
+	"World Corruption Starting Day" = 20.0
+	#Limits the day count multiplier to Limits the day count multiplier to x1010
+	"Limited Multiplier" = true
+	#Turns deepslate ores into their stone counterpart (don't leave this on if you disabled deepslate conversion into stone)
+	"Deepslate ores fix" = true
+
+["Event config"]
+	#Enable or disable events
+	Events = true
+	#Enable or disable structures
+	Structures = true
+	#Event chance multiplier
+	"Event Chance Multiplier" = 1.0
+	#Enable or disable the Bad Sun event
+	"Bad Sun" = true
+
+["Entities config"]
+	#Enable or disable entities
+	"Entities Spawn" = true
+
+["Chat interactions"]
+	#Enable or disable chat interactions
+	"Chat Interactions" = true
+
+["§4§lSuper Dangerous Settings"]
+	#Enable or disable dev logs
+	"Dev Logs" = false
+	#§4§lEnable or disable Nightmare Mode (Constant Bad Sun, No House Base, 32x events, 8x entities and more...), and overrides most settings. Enable this if you have already played the mod because it's actually crazy. §c[PLEASE KEEP IN MIND THAT THIS IS A WIP AND IT MIGHT BE UNPLAYABLE.]
+	"Nightmare Mode" = false

@@ -1,0 +1,31 @@
+#Enable having a render distance effect during the moon glitch event.
+enableMoonGlitch = true
+#Control how the mod will modify the main menu.
+#Allowed Values: FANART, VANILLA
+mainMenuMode = "VANILLA"
+#Enable the HUD Text. You may miss out on important Stuff if you disable this!
+enableHudText = true
+#Let the mod create a file on your desktop.
+enableFileCreation = true
+#Enable the custom main menu music.
+enableMenuMusic = true
+#Enable the void fog.
+enableVoidFog = true
+#Turns ON/OFF fancy (but higher performance cost) rendering features.
+fancyRendering = true
+#Turns ON/OFF shader based skybox on the moon.
+shaderBasedMoon = true
+
+#Accessibility settings.
+#
+#These will break the intended experience of the mod!
+#Use at your own risk!
+[accessibility]
+	#Show the photosensitivity warning on startup.
+	showPhotosensitivityWarning = true
+	#Show the note about the Mark101 ARG on startup.
+	showMarkScreen = false
+	#Enable the chromatic aberration effect.
+	enableAberration = true
+	#Show the content sensitivity warning on startup.
+	showContentWarning = true
