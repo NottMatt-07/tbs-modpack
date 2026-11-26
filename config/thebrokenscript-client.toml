@@ -12,7 +12,7 @@ enableMenuMusic = true
 #Enable the void fog.
 enableVoidFog = true
 #Turns ON/OFF fancy (but higher performance cost) rendering features.
-fancyRendering = true
+fancyRendering = false
 #Turns ON/OFF shader based skybox on the moon.
 shaderBasedMoon = true
 

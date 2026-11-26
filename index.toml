@@ -162,7 +162,7 @@ hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
 file = "config/immersive_portals.json"
-hash = "85018c79d14e9da1bdbae6bf95c8e8296ffbef1ff973464e7fb3598ffdae98f9"
+hash = "57db2b479618481575e2e3029cc67ac5a7ff7759ccdc519e76f858e11de87179"
 
 [[files]]
 file = "config/knocker.toml"
@@ -270,11 +270,11 @@ hash = "3075e3b7cddfad7337426f559144a7d3f900f917438c1ce9c35565e6c8f5695b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+hash = "df88dbda1118afd87721375c08c27d18f1140724c713aaad4f341077df180d02"
 
 [[files]]
 file = "config/thebrokenscript-client.toml"
-hash = "3ca5949bdaca1d99cebb6d5469ff4a296059cb78a803ac749bd29c88eeb7fbed"
+hash = "1f7d4313b16b02b7372823412cb35c8dfde5b53efc4a50c9e8a8211ad6f72c85"
 
 [[files]]
 file = "config/thebrokenscript-common.toml"
@@ -354,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/brokenskyapi-1.0.pw.toml"
 hash = "efdd7c554e0cf4b43c2812f6f61cfb187ef9207f40520fa0405ed7a5c85254df"
+metafile = true
+
+[[files]]
+file = "mods/chunky-neoforge-1.4.23.pw.toml"
+hash = "320107f5134d7fe1ba6099034f6a5f5f3145493cfa4cac350e90f8bf38962e42"
 metafile = true
 
 [[files]]
@@ -522,6 +527,11 @@ hash = "cc1eb34f2fa89289654ed95f212997102465973dd0a9e1e29482041c3cee126d"
 metafile = true
 
 [[files]]
+file = "mods/noisium-neoforge-2.3.0-mc1.21-1.21.1.pw.toml"
+hash = "d1859a0b546beee251932363f6c6494900888897e2204df508aec99c2a59dc4e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1-1.21.pw.toml"
 hash = "37f531c3312fbd8e395b1b1c000a9fba08fc98fa8b8969d512ce4af3f205a418"
 metafile = true
@@ -559,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.pw.toml"
 hash = "9b38619c5a7717708aad98e8dd6f51c44f7731e61fc945b254a5c4c79321f6ae"
+metafile = true
+
+[[files]]
+file = "mods/spark-1.10.124-neoforge.pw.toml"
+hash = "670400cca7743b3f37fbd076bd0e5a235f0715e66c6c546953be4be4883a5db3"
 metafile = true
 
 [[files]]
