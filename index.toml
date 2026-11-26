@@ -222,7 +222,7 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
 file = "config/obsessed_configurations.toml"
-hash = "e97a0259a660b216b8375ea1826b00fc3ed55dc2bb4b66fbf1b059883b4db133"
+hash = "4c740b8a45b95d8d31ebc22cc539fd96ab6f724a200233dd5401e0bf5713381a"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
@@ -613,10 +613,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "36b130396efca2abe49da7fc2797af08d29284386f8dcb37e17bda84d93567b3"
+hash = "55af551be38eb8d4a4da2cf0e07e825884a10ab538cd8e6e6e00672e97689200"
 preserve = true
 
 [[files]]
-file = "resourcepacks/tbs-nostalgia.pw.toml"
-hash = "6ba37f9e9e0441274f38ba2ea4b5fa94446060c5f6c7d5fec9e62c66547da65b"
+file = "resourcepacks/alpha_sounds_1.20.2-1.14.pw.toml"
+hash = "0f3e367c652a5f0570063f65ead072b078df8a34d8abfaa437e81848ca92aade"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nostalgia--26.3--fix-1.21.1-.pw.toml"
+hash = "c10271d0a67d4ee551c89bd2e7ee771d52d48741c6a5f000d6fb5f2e48f3a6f1"
 metafile = true

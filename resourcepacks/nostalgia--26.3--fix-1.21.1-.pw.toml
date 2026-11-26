@@ -1,0 +1,8 @@
+name = "Nostalgia+ 26.3 (fix 1.21.1)"
+filename = "Nostalgia+ 26.3 (fix 1.21.1).zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/yybdjdg8ei15v2ljdq2gz/Nostalgia-26.3-fix-1.21.1.zip?rlkey=ol6s05lrffdmglikkr71cf7c1&st=9xbv9syz&dl=1"
+hash-format = "sha512"
+hash = "49e39593677753b5b25901ced7599a54e1af214a557493c2a33e559dbdadfa56ba74094e5ebd330ea6eff747a469c57bc5d41e11ba18b441b8c47ba23d702309"

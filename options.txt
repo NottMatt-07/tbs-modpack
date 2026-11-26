@@ -48,8 +48,8 @@ mouseSensitivity:0.20422535211267606
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","file/TBS Nostalgia.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","mod_resources","file/Nostalgia+ 26.3 (fix 1.21.1).zip","file/alpha_sounds_1.20.2-1.14.zip","file/TBS_Espanol_LatAm_resourcepack.zip"]
+incompatibleResourcePacks:["file/alpha_sounds_1.20.2-1.14.zip"]
 lastServer:
 lang:es_es
 chatVisibility:0
