@@ -1,0 +1,8 @@
+name = "thebrokenscriptadditions-0.10-pre1-tbsperf2"
+filename = "thebrokenscriptadditions-0.10-pre1-tbsperf2.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/cejqdnbra8qjclm8z42hq/thebrokenscriptadditions-0.10-pre1-tbsperf2.jar?rlkey=6wahoz87w7evk5k57cug47t9d&dl=1"
+hash-format = "sha512"
+hash = "1e0ab1f1ad0922750abed347eafe26111def2d531c637a1ecc0761b43d2fbbb8b6d5f3f80dbbd78631e6e699cc597dfa8a24559aadabf21a8b52f66b63d0109e"

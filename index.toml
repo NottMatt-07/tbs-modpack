@@ -57,10 +57,6 @@ file = "config/brokencore-startup.toml"
 hash = "13da9d70f72df7e74fa070bfa61ac5fe45cbb0aa127f8c4aa611d0f89b009502"
 
 [[files]]
-file = "config/cinematic-client.toml"
-hash = "b86b76cfb11c7bb2b60dc33a4326bd9d711823c9e3c6951abcd6ef4f613c157a"
-
-[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -222,7 +218,7 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
 file = "config/obsessed_configurations.toml"
-hash = "4c740b8a45b95d8d31ebc22cc539fd96ab6f724a200233dd5401e0bf5713381a"
+hash = "e97a0259a660b216b8375ea1826b00fc3ed55dc2bb4b66fbf1b059883b4db133"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
@@ -332,6 +328,10 @@ file = "config/waterdripsound.json"
 hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
 
 [[files]]
+file = "essential/config.toml"
+hash = "642c3eb3d7f611c73a7e8eb550ac80aa80275f40dfc0d0c882b66152270456a9"
+
+[[files]]
 file = "mods/architectury-13.0.12-neoforge.pw.toml"
 hash = "5654bb4d0618860abe3f10413034f2f4246c541642043f0240406fdc2b32f223"
 metafile = true
@@ -359,11 +359,6 @@ metafile = true
 [[files]]
 file = "mods/chunky-neoforge-1.4.23.pw.toml"
 hash = "320107f5134d7fe1ba6099034f6a5f5f3145493cfa4cac350e90f8bf38962e42"
-metafile = true
-
-[[files]]
-file = "mods/cinematic-interaction-neoforge-1.21.1-0.18.30.pw.toml"
-hash = "a3205e0173b54f18710f633d5b8a11f9708ed85cc34e1bbb0727b10be3a7e5f1"
 metafile = true
 
 [[files]]
@@ -417,8 +412,8 @@ hash = "61ad0d871a271fbd0895f259bb79c3000cb6ba5da51bdf57871faa104fcf4388"
 metafile = true
 
 [[files]]
-file = "mods/dreamshift-0.2.2-hotfix-neoforge-port.pw.toml"
-hash = "6abaf5da965a1683c573910559f8fcd8078d04a321e6c37d8808f15a55aa1b72"
+file = "mods/dreamshift-0.2.2-hotfix-neoforge-port-tbs3.pw.toml"
+hash = "acf319e15415b15b63ef6f2a09ea6a758747b5b1ce8e9a9cd0c0cfc147639a05"
 metafile = true
 
 [[files]]
@@ -572,8 +567,8 @@ hash = "9b38619c5a7717708aad98e8dd6f51c44f7731e61fc945b254a5c4c79321f6ae"
 metafile = true
 
 [[files]]
-file = "mods/spark-1.10.124-neoforge.pw.toml"
-hash = "670400cca7743b3f37fbd076bd0e5a235f0715e66c6c546953be4be4883a5db3"
+file = "mods/tbs-assets-build3850-1.pw.toml"
+hash = "f320b4d770b6caefcff9c0ce123b206adcfa0915a171421003ddd3cbe63e9942"
 metafile = true
 
 [[files]]
@@ -587,18 +582,18 @@ hash = "01f1a25ee3d9d9c45fca10ae370fcc1ae5a7c8fbc6453a1622d949ad736b7b28"
 metafile = true
 
 [[files]]
-file = "mods/thebrokenscript-neoforge-2.0.5-hotfix-mc1.21.1-build.3850-es.pw.toml"
-hash = "72af514ffd8035b652119db54ffa33a634c775b70fb02a651998cc45c6f1b0ac"
+file = "mods/thebrokenscript-neoforge-2.0.5-hotfix-mc1.21.1-build.3850-es-core.pw.toml"
+hash = "1c50f8be5c7adf1b863aa20f535ce1912f921b5347ae78c16e4758243061dcaf"
 metafile = true
 
 [[files]]
-file = "mods/thebrokenscriptadditions-0.10-pre-1.pw.toml"
-hash = "712dd766ff19298d89cbb3930cfabbfffe1d4f91a53eafe785453ff98e49fb36"
+file = "mods/thebrokenscriptadditions-0.10-pre1-tbsperf2.pw.toml"
+hash = "e813f12d213fc14b861d4c7209afb95d72fb5c7acc37f494580a34d7e46a7586"
 metafile = true
 
 [[files]]
-file = "mods/thebrokenscriptblackout-1.4.7-mc1.21.1.pw.toml"
-hash = "953addd4ecb0565c0f4fd2446808569a01a7c0abcc40709729ecf51ee98d5ad7"
+file = "mods/thebrokenscriptblackout-1.4.7-tbsperf2.pw.toml"
+hash = "daa52d2753e3681318e6a7d84cb793ab8d058640093c8122e0d842caa77c30de"
 metafile = true
 
 [[files]]
@@ -613,15 +608,10 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "55af551be38eb8d4a4da2cf0e07e825884a10ab538cd8e6e6e00672e97689200"
+hash = "36b130396efca2abe49da7fc2797af08d29284386f8dcb37e17bda84d93567b3"
 preserve = true
 
 [[files]]
-file = "resourcepacks/alpha_sounds_1.20.2-1.14.pw.toml"
-hash = "0f3e367c652a5f0570063f65ead072b078df8a34d8abfaa437e81848ca92aade"
-metafile = true
-
-[[files]]
-file = "resourcepacks/nostalgia--26.3--fix-1.21.1-.pw.toml"
-hash = "c10271d0a67d4ee551c89bd2e7ee771d52d48741c6a5f000d6fb5f2e48f3a6f1"
+file = "resourcepacks/tbs-nostalgia.pw.toml"
+hash = "6731cfc778fe2a26dd33ed40eafe0e289aecd33e4fe9d25c18f76f3e2ec661e6"
 metafile = true

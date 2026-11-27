@@ -1,0 +1,8 @@
+name = "thebrokenscriptblackout-1.4.7-tbsperf2"
+filename = "thebrokenscriptblackout-1.4.7-tbsperf2.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/2rcgpu6bztf6ibn0rba8g/thebrokenscriptblackout-1.4.7-tbsperf2.jar?rlkey=tck6p3l869aw0oapudehktp57&dl=1"
+hash-format = "sha512"
+hash = "60d6d83f06e76d7be604ef5ed8d0575c4a886104f9c3b83a1d0d251c1f2d90fcc991a65586f774dc745d63e34848b4a0b2483e1fdbfc31b0b7ba9c5d9ae9dd41"

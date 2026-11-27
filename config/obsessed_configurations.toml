@@ -12,7 +12,7 @@
 
 [Other]
 	#Set to false to disable the initial welcome text shown to players on first world load
-	"Splash Text" = true
+	"Splash Text" = false
 	#Allow multiple players to be targeted, or only one per world? Set to true if you would like to allow multiple obsessions at a time.
 	"Allow Multiple Targets" = false
 	#Set to false to disable hallucination entities/jumpscares. This includes the bed version, block breaking version, targeter popup, and various spider versions
