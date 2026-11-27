@@ -1,5 +1,15 @@
 # TBS Principal: notas de parche / patch notes
 
+## 1.1.3
+
+### Espanol
+
+- **Arreglado: no se podia entrar al mundo de un amigo** ("Datos del jugador no validos"). Pasaba cuando el que hostea tenia una version de Essential distinta. Ahora Essential se actualiza solo y todos quedan con la misma version.
+
+### English
+
+- **Fixed: you could not join a friend's world** ("Invalid player data"). It happened when the host had a different Essential version. Essential now updates on its own so everyone has the same version.
+
 ## 1.1.1
 
 ### Espanol

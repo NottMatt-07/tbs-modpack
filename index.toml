@@ -328,6 +328,10 @@ file = "config/waterdripsound.json"
 hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
 
 [[files]]
+file = "essential/essential-loader.properties"
+hash = "e013c132bd15c49bac5993e74b74db9900120e308fe2b459792e3a9259cdbd5c"
+
+[[files]]
 file = "essential/config.toml"
 hash = "642c3eb3d7f611c73a7e8eb550ac80aa80275f40dfc0d0c882b66152270456a9"
 
