@@ -572,6 +572,10 @@ hash = "f320b4d770b6caefcff9c0ce123b206adcfa0915a171421003ddd3cbe63e9942"
 metafile = true
 
 [[files]]
+file = "mods/tbs-nostalgia-1.0.0.jar"
+hash = "fa2f678e5f07c15353fddc1e851432120108b88655fbb3b22f56f74a463afad2"
+
+[[files]]
 file = "mods/the_knocker-1.5.2-neoforge-1.21.1.pw.toml"
 hash = "a9a3792f5209d1ebc480bc50570dd110ff7ebb432e5dc7a328e722697dbcdcc0"
 metafile = true
@@ -612,6 +616,6 @@ hash = "36b130396efca2abe49da7fc2797af08d29284386f8dcb37e17bda84d93567b3"
 preserve = true
 
 [[files]]
-file = "resourcepacks/tbs-nostalgia.pw.toml"
+file = "tbs/tbs-nostalgia.pw.toml"
 hash = "6731cfc778fe2a26dd33ed40eafe0e289aecd33e4fe9d25c18f76f3e2ec661e6"
 metafile = true

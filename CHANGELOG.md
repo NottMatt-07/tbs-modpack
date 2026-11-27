@@ -1,5 +1,15 @@
 # TBS Principal: notas de parche / patch notes
 
+## 1.1.1
+
+### Espanol
+
+- **TBS Nostalgia ahora se activa solo.** Ya no hace falta entrar a Paquetes de recursos: queda siempre activo y arriba de todo.
+
+### English
+
+- **TBS Nostalgia now turns on by itself.** No need to go to Resource Packs anymore: it is always active and on top.
+
 ## 1.1.0
 
 ### Espanol
@@ -28,7 +38,7 @@ El modpack se actualizo a la version 1.1.0. Se instala solo la proxima vez que a
 - Se saco spark (era solo para medir el rendimiento).
 - Se saco Cinematic Interaction.
 
-**Importante:** si ya tenias el modpack instalado, entra una vez a Opciones > Paquetes de recursos y activa **TBS Nostalgia**.
+**Importante:** desde la 1.1.1, TBS Nostalgia se activa solo.
 
 ### English
 
@@ -56,7 +66,7 @@ The modpack was updated to version 1.1.0. It installs on its own the next time y
 - Removed spark (it was only for performance testing).
 - Removed Cinematic Interaction.
 
-**Important:** if you already had the modpack installed, go once to Options > Resource Packs and enable **TBS Nostalgia**.
+**Important:** since 1.1.1, TBS Nostalgia turns on by itself.
 
 ## 1.0.1
 
