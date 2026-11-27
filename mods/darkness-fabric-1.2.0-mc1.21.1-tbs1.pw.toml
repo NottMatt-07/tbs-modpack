@@ -1,0 +1,8 @@
+name = "darkness-fabric-1.2.0+mc1.21.1-tbs1"
+filename = "darkness-fabric-1.2.0+mc1.21.1-tbs1.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/rvr2qtkeuarzx5gfn4w2q/darkness-fabric-1.2.0-mc1.21.1-tbs1.jar?rlkey=6upgt9ggx8a86hmewpfw8036h&dl=1"
+hash-format = "sha512"
+hash = "1d652345f68dc8ae6d90b4ea99498c923fc8aea2ee89559ff11249899658ebefcb8daae7131e77c72eec0d2344433ef82d7e076d0f67c3cfb1b220704adca9a2"

@@ -402,8 +402,8 @@ hash = "4f653bae6c8f6e7b6fad20b20999ad64ca7249f6eb8f56087c721dba0529fa47"
 metafile = true
 
 [[files]]
-file = "mods/darkness-fabric-1.2.0-mc1.21.1.pw.toml"
-hash = "eb55c629b19dda558185aa43aaed1bd860d738281595a404cea2d84c02f71b09"
+file = "mods/darkness-fabric-1.2.0-mc1.21.1-tbs1.pw.toml"
+hash = "0079c7fc5a102fb2c2a8cbd21760ceab2e3ee36513769a95e32467f9961121e8"
 metafile = true
 
 [[files]]
@@ -617,5 +617,5 @@ preserve = true
 
 [[files]]
 file = "tbs/tbs-nostalgia.pw.toml"
-hash = "6731cfc778fe2a26dd33ed40eafe0e289aecd33e4fe9d25c18f76f3e2ec661e6"
+hash = "cb6668dcc6ec003416107b8e56f67f16f45f7f2789a1127c6cea4782041aa36d"
 metafile = true

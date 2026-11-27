@@ -1,12 +1,12 @@
 name = "TBS Principal"
 author = "NottMatt_"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1da718480da04617a27ca1e448bc71a829fe222f154e88d53d69bed04b639d9f"
+hash = "32ece1ff0f8afaed3ac040145c572404609bf3f261d7e7c6439ae66fe9400968"
 
 [versions]
 minecraft = "1.21.1"
