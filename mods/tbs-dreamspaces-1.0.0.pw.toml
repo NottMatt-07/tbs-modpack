@@ -1,0 +1,8 @@
+name = "tbs-dreamspaces-1.0.0"
+filename = "tbs-dreamspaces-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/rxo1g1gvn0smsmb5yrt75/tbs-dreamspaces-1.0.0.jar?rlkey=qpetlixkpgln1r3gksjhb510z&dl=1"
+hash-format = "sha512"
+hash = "6d2a8138506a0b3ba4635a159be3083ec72dfdb55b7b51be341ed721b57e0d1bcc68636981f39655691251cab18d36c8e3cfc9038acc6935423b029da350cc2c"

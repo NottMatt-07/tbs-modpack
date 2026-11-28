@@ -1,0 +1,8 @@
+name = "dreamshift-0.2.2-hotfix-neoforge-port-tbs7-sinip"
+filename = "dreamshift-0.2.2-hotfix-neoforge-port-tbs7-sinip.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/yf05wscfgophflg7brbt3/dreamshift-0.2.2-hotfix-neoforge-port-tbs7-sinip.jar?rlkey=pymvg4auzmukpgw68lzgjzh14&dl=1"
+hash-format = "sha512"
+hash = "c9e57838e35ed91abc455dc1da8e82df90e44ae682b480a7c2253d31af3a5e43683fbc80e97a5356d5598431b5f889edbd3b4738f0bb22ffb5b0c882ebeea047"

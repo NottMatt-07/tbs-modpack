@@ -1,5 +1,27 @@
 # TBS Principal: notas de parche / patch notes
 
+## 1.2.0
+
+### Espanol
+
+- **Se siente mas como Minecraft 1.8**: graficos, niebla negra en cuevas, sin texturas emisivas, panorama del menu en 1080, opciones del 1.8 (FOV 90, interfaz automatica, sin vsync, todo el sonido al maximo, teclas por defecto). Las opciones se actualizan solo en esta version; despues no se te pisan.
+- Las menas de hierro, oro y cobre sueltan el bloque (se funden), sin fortuna, como en 1.8. Filo vuelve a pegar como en 1.8 (+1.25 por nivel).
+- Musica clasica de C418 en el menu principal.
+- Sin las alertas de fotosensibilidad, contenido y hardware al abrir el juego.
+- Botones de Essential "Hostear mundo" / "Invitar amigos" en el menu principal y en la pausa.
+- Mapas de Dreamshift nuevos (dreamspaces) y Dreamshift sin Immersive Portals (mas estable).
+- Agua sin el tinte violeta.
+
+### English
+
+- **Feels more like Minecraft 1.8**: graphics, black cave fog, no emissive textures, 1080 menu panorama, 1.8 options (FOV 90, auto GUI scale, no vsync, all sound at max, default keys). Options are updated only in this version; later they are not overwritten.
+- Iron, gold and copper ores drop the ore block (smelt it), no fortune, like 1.8. Sharpness hits like 1.8 again (+1.25 per level).
+- Classic C418 music on the title screen.
+- No photosensitivity, content or hardware warnings at startup.
+- Essential "Host world" / "Invite friends" buttons on the title and pause screens.
+- New Dreamshift maps (dreamspaces) and Dreamshift without Immersive Portals (more stable).
+- Water without the purple tint.
+
 ## 1.1.3
 
 ### Espanol

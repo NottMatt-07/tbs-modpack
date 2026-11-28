@@ -1,7 +1,7 @@
 {
 	"darkOverworld": true,
-	"darkNether": true,
-	"darkEnd": true,
+	"darkNether": false,
+	"darkEnd": false,
 	"darkDefault": true,
 	"darkSkyless": true,
 	"darkNetherFog": 0.5,

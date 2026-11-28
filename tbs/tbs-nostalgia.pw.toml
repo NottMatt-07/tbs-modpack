@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://www.dropbox.com/scl/fi/2cavwvy64ieinef1gkkgk/TBS-Nostalgia.zip?rlkey=ppn6o6foguv071c2mi1ejf5jc&st=5en4ik8e&dl=1"
 hash-format = "sha512"
-hash = "e4c927a59b82bb36edd7b74452ebb1846be558f059280716d58c018ce7d1b5e1706f637bb3e3e9c527f8b2932cfbf1f246f1d852a662cfede86b1e580936a309"
+hash = "da0a83e39a3b23744544ce14fefc80500e92255c0af28fd37f3c36a2917cc08b15cb0d1e6e6b63a29e61bf33107a47a6b0ec9c96d542d1e31c21e6034aecda37"

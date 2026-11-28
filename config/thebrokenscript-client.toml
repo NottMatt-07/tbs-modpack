@@ -8,7 +8,7 @@ enableHudText = true
 #Let the mod create a file on your desktop.
 enableFileCreation = true
 #Enable the custom main menu music.
-enableMenuMusic = true
+enableMenuMusic = false
 #Enable the void fog.
 enableVoidFog = true
 #Turns ON/OFF fancy (but higher performance cost) rendering features.

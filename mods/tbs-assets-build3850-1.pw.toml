@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://www.dropbox.com/scl/fi/kmg9jh833huu26x83akzv/tbs-assets-build3850-1.jar?rlkey=cdqya51f1q0jzv6v3nxwnngu3&dl=1"
 hash-format = "sha512"
-hash = "615aa8ebb59a0b1bfab5adf43e0f9709baf59d9590ea273accaa64df39d811bcfa705d008d0168f4db4e748c3182d7fa52bdcdd2dedd692e6a8a7af1246d5b86"
+hash = "ebb24d4e6c0b775d1bd700e466b41918dcd1f7a50a71c33815cbab3bf86b4c312aa8cd53d048a79e55ebac217b46fb1039ae529f3f875868a9b552ab5ebc55dd"

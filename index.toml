@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".tbs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -62,7 +67,7 @@ hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
 file = "config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+hash = "11dd1adbbc3f73fca30582199a1b582ffdf37e6d5e35eddffca30162e054382e"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -78,7 +83,7 @@ hash = "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d"
 
 [[files]]
 file = "config/darkness.json5"
-hash = "de9ac6057bae0b6abb94cf6ef41569d3a03892efef1d68cb3f96f4022aee55c9"
+hash = "6e282faf749d6f02c076ef36fabf58c8df484193d928cae566c2f2267bc556f3"
 
 [[files]]
 file = "config/dreamshift.json"
@@ -94,7 +99,7 @@ hash = "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "bd66edf9d1a72cd717bbe9b17b41ffd16963b089493e5ddae3d3ad69153105ba"
+hash = "443bb7fab3a72528c0ef2e6cdc44201c3922e3e98c7f05ed9191505e56df807d"
 
 [[files]]
 file = "config/entityculling.json"
@@ -130,7 +135,7 @@ hash = "949598a74966422d8d35610321eb09d789802804d3f0114be17b2f10f70905e8"
 
 [[files]]
 file = "config/fml.toml"
-hash = "db35caf72b3e491bc3f8b4b966accc9148909639450882944f578dd22f70ccc5"
+hash = "7437ec7d31a7aa4e2b45b85d1fdbbaf81d386efb8c0c2188b0558dca45dec43a"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -142,7 +147,7 @@ hash = "77aa53fc4c2dedf8fac31293b89d6b6bfd6faf9c9f4c448c314bcf3aaa989899"
 
 [[files]]
 file = "config/goldenagecombat-client.toml"
-hash = "ef15d79c2a84151c5525a737700a25eb47f63a66aea868fea62f539db7296e16"
+hash = "e0c8049fd2c6b5d87bd68f19c498c9fd11e1be4994d5ac47e04914ae01bc8a52"
 
 [[files]]
 file = "config/goldenagecombat-common.toml"
@@ -150,15 +155,11 @@ hash = "6743dbc7cd33f4e65934439b443bffa90fc3124e3b62cf54df5b2df83d6cc1f5"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5471fe997b07d8a07e281471a2c776465d3cc4af62c5253ee9301dc271da1c57"
+hash = "b8dc409b1bbeaff58a46e6be87fc088ea8020a2d96daf1fcb827e5c9cfb1c6b6"
 
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
-
-[[files]]
-file = "config/immersive_portals.json"
-hash = "57db2b479618481575e2e3029cc67ac5a7ff7759ccdc519e76f858e11de87179"
 
 [[files]]
 file = "config/knocker.toml"
@@ -221,10 +222,6 @@ file = "config/obsessed_configurations.toml"
 hash = "e97a0259a660b216b8375ea1826b00fc3ed55dc2bb4b66fbf1b059883b4db133"
 
 [[files]]
-file = "config/presencefootsteps/userconfig.json"
-hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
-
-[[files]]
 file = "config/serversidehorror.json"
 hash = "1a3a04a7258c8ad1610a392415177f6d4191ca0f92327390d4756e3471e44da5"
 
@@ -246,31 +243,11 @@ hash = "9ff9f86188bc8a937a8997efb00148a27965eefce8bca804fa67c8c0766f5c6b"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "d7b7957dad9faa74c7a83ac64c3c53943ffc4580a83afc67826edeb04ebfe283"
-
-[[files]]
-file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "c88058e5d0740c157372401762f687469f794bd4c2952e3969f5599ddf13f9e9"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
-
-[[files]]
-file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "3075e3b7cddfad7337426f559144a7d3f900f917438c1ce9c35565e6c8f5695b"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "df88dbda1118afd87721375c08c27d18f1140724c713aaad4f341077df180d02"
+hash = "267d3cd419b9d59eb50eca18224ad4d47325d3c8a71253818dbc8394625a649b"
 
 [[files]]
 file = "config/thebrokenscript-client.toml"
-hash = "1f7d4313b16b02b7372823412cb35c8dfde5b53efc4a50c9e8a8211ad6f72c85"
+hash = "405e8cae317a7c7d4253d95a96c7a9fb307fed4b84cbb0e0170481eb9942fb49"
 
 [[files]]
 file = "config/thebrokenscript-common.toml"
@@ -324,16 +301,16 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 preserve = true
 
 [[files]]
-file = "config/waterdripsound.json"
-hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
+file = "essential/config.toml"
+hash = "642c3eb3d7f611c73a7e8eb550ac80aa80275f40dfc0d0c882b66152270456a9"
 
 [[files]]
 file = "essential/essential-loader.properties"
 hash = "e013c132bd15c49bac5993e74b74db9900120e308fe2b459792e3a9259cdbd5c"
 
 [[files]]
-file = "essential/config.toml"
-hash = "642c3eb3d7f611c73a7e8eb550ac80aa80275f40dfc0d0c882b66152270456a9"
+file = "essential/loader/stage1/modlauncher9/stage2.forge_1.17.1.properties"
+hash = "e013c132bd15c49bac5993e74b74db9900120e308fe2b459792e3a9259cdbd5c"
 
 [[files]]
 file = "mods/architectury-13.0.12-neoforge.pw.toml"
@@ -416,13 +393,8 @@ hash = "61ad0d871a271fbd0895f259bb79c3000cb6ba5da51bdf57871faa104fcf4388"
 metafile = true
 
 [[files]]
-file = "mods/dreamshift-0.2.2-hotfix-neoforge-port-tbs3.pw.toml"
-hash = "acf319e15415b15b63ef6f2a09ea6a758747b5b1ce8e9a9cd0c0cfc147639a05"
-metafile = true
-
-[[files]]
-file = "mods/drip-sounds-0.5.2-1.21.8-neoforge.pw.toml"
-hash = "6a35ba1837a41afed6db55333e2681fcf803e5eb73d7f3562049bb5c3d17c716"
+file = "mods/dreamshift-0.2.2-hotfix-neoforge-port-tbs7-sinip.pw.toml"
+hash = "122c565fa1d6e36f82be3031daa160f3c267f83b8fa138f42e6133cc363456af"
 metafile = true
 
 [[files]]
@@ -473,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast-neoforge-1.6.13-1.21.1.pw.toml"
 hash = "4be770faef018d04c4c5b1fead6f0d9a941a12739af74fe8967e0c8ff41a69b9"
-metafile = true
-
-[[files]]
-file = "mods/immersive_portals-6.0.7-all.pw.toml"
-hash = "0a8bf58ac634097a78a64da5f9a5e9b877e41f17b8634263fd1f5442a8f4a876"
 metafile = true
 
 [[files]]
@@ -536,13 +503,13 @@ hash = "37f531c3312fbd8e395b1b1c000a9fba08fc98fa8b8969d512ce4af3f205a418"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api-2.4.2-1.21.pw.toml"
-hash = "11cc73dc3e8da04234df7f0c6f6e8cb6be2067a47afe16992b0bec044f97ae08"
+file = "mods/placebo-1.21.1-9.9.4.pw.toml"
+hash = "011392b381502aa806bb8e927c41c80a175de4fe516d5f2f3fa9536f53df5b3f"
 metafile = true
 
 [[files]]
-file = "mods/presencefootsteps-1.21.1-1.12.0-beta.1-1.21neoforge.pw.toml"
-hash = "50fda4f8902f7b8a9fb595ea97afb5eb55aaf7ded9f108b741fdb0e296dd85a6"
+file = "mods/placeholder-api-2.4.2-1.21.pw.toml"
+hash = "11cc73dc3e8da04234df7f0c6f6e8cb6be2067a47afe16992b0bec044f97ae08"
 metafile = true
 
 [[files]]
@@ -566,18 +533,36 @@ hash = "04910070d4ddf78888ca8038164aa24ff3bdf97d988d62b0ee5dfab4c545238d"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.pw.toml"
-hash = "9b38619c5a7717708aad98e8dd6f51c44f7731e61fc945b254a5c4c79321f6ae"
+file = "mods/spark-1.10.124-neoforge.pw.toml"
+hash = "670400cca7743b3f37fbd076bd0e5a235f0715e66c6c546953be4be4883a5db3"
+metafile = true
+
+[[files]]
+file = "mods/swordblockingmechanics-v21.1.1-1.21.1-neoforge.pw.toml"
+hash = "6b77f52b611444ceb5e94b967293c0bf59cf6aa9148175967b1389aa57f3a34e"
 metafile = true
 
 [[files]]
 file = "mods/tbs-assets-build3850-1.pw.toml"
-hash = "f320b4d770b6caefcff9c0ce123b206adcfa0915a171421003ddd3cbe63e9942"
+hash = "18d1096ccfd03326e1adf0a647eff7a1d88187c48dd722544072bc6fc5369e07"
 metafile = true
 
 [[files]]
-file = "mods/tbs-nostalgia-1.0.0.jar"
-hash = "fa2f678e5f07c15353fddc1e851432120108b88655fbb3b22f56f74a463afad2"
+file = "mods/tbs-debug-1.2.0.jar"
+hash = "31939069d16e51f37455748ccfdff4f578b26ea383c60bfa1d7a4765b22cbc65"
+
+[[files]]
+file = "mods/tbs-dreamspaces-1.0.0.pw.toml"
+hash = "cbaa0bf9b7cdfd446ed628ffff778efd1c216987219428318657f788ae2c053a"
+metafile = true
+
+[[files]]
+file = "mods/tbs-nostalgia-1.8.2.jar"
+hash = "cb2a7c4a7aed686fc3a7ba3362c273978d961d077449ec251666dd690d0764cd"
+
+[[files]]
+file = "mods/tbs-texturas-1.0.0.jar"
+hash = "faafbdc967a239e6a4eb9420bda7d05deaddc4ca4b627482deaa1b1766d8ee79"
 
 [[files]]
 file = "mods/the_knocker-1.5.2-neoforge-1.21.1.pw.toml"
@@ -591,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/thebrokenscript-neoforge-2.0.5-hotfix-mc1.21.1-build.3850-es-core.pw.toml"
-hash = "1c50f8be5c7adf1b863aa20f535ce1912f921b5347ae78c16e4758243061dcaf"
+hash = "59ced6d158033a6a9c4aa251960021df068a641f12b715e0c2598d1a413de0b7"
 metafile = true
 
 [[files]]
@@ -602,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/thebrokenscriptblackout-1.4.7-tbsperf2.pw.toml"
 hash = "daa52d2753e3681318e6a7d84cb793ab8d058640093c8122e0d842caa77c30de"
+metafile = true
+
+[[files]]
+file = "mods/toastcontrol-1.21.1-9.0.1.pw.toml"
+hash = "5707d3d9ae5e5c5a2d2ca4158909559302ff818ea99c03799b02615576453297"
 metafile = true
 
 [[files]]
@@ -616,10 +606,13 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "36b130396efca2abe49da7fc2797af08d29284386f8dcb37e17bda84d93567b3"
-preserve = true
+hash = "2a909c19111a8bfbdc94ebcdc6544929f19daf46509a21708dc4d2ee373d46c2"
+
+[[files]]
+file = "tbs/TBS 1.8.zip"
+hash = "7c1072ed8b5cef5475c5b600ab885767ea414ee08a8a01d0c8e8c3ede231f756"
 
 [[files]]
 file = "tbs/tbs-nostalgia.pw.toml"
-hash = "cb6668dcc6ec003416107b8e56f67f16f45f7f2789a1127c6cea4782041aa36d"
+hash = "2bbd8ce2fd8863f2eca81d3ce7797a995c274f7bd1afea5701b312259be32411"
 metafile = true

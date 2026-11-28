@@ -34,7 +34,7 @@ interact_while_using = false
 notch_apple_effects = true
 #Health only regenerates every 4 seconds, while requiring 18 or more food points. Surplus saturation does not yield quick health regeneration.
 #Default Value: false
-legacy_food_mechanics = false
+legacy_food_mechanics = true
 #Player is knocked back by attacks which do not cause any damage, such as when hit by snowballs, eggs, and fishing rod hooks.
 #Default Value: true
 weak_attacks_knock_back_players = true
